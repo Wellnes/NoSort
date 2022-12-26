@@ -56,3 +56,12 @@ SELECT ara FROM chupa
 ###### Заголовок шестого уровня
 
 просто текст
+
+> ### Syntax Definition {: .tip}
+>
+> `Mermaid` **state diagram** format is literally the same as `PlantUML`, so if you want to use it, specify `syntax: Finitomata.PlantUML` and
+> if you want to use **mermaid graph**, specify `syntax: Finitomata.Mermaid`. The latter is the default.
+
+Basically, it looks more or less like this
+
+### `PlantUML`
