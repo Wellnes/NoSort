@@ -16,6 +16,12 @@ def deps do
 end
 ```
 
+## Changelog
+
+- `0.9.0` — [FIX] malformed callbacks had the FSM broken
+- `0.8.2` — last error is now kept in the state (credits to @egidijusz)
+
+
 ~~Зачеркнутый текст~~
 
 `Hi man`
