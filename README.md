@@ -2,6 +2,13 @@
 
 ![code-222x280](https://user-images.githubusercontent.com/11923488/209478830-d0a22279-5cc0-4c7e-ab63-e0a794d88e1e.png)
 
+I get 10 times more traffic from [Google][1] than from
+[Yahoo][2] or [MSN][3].
+
+[1]: http://google.com/        "Google"
+[2]: http://search.yahoo.com/  "Yahoo Search"
+[3]: http://search.msn.com/    "MSN Search"
+
 *Выделение курсивом*
 
 **Выделение жирным**
